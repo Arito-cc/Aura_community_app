@@ -1,6 +1,0 @@
-Pass - password123
-
-mongodb+srv://arito_dbuser:j9zdmylWLWdDO9gN@cluster0.oxgbqfz.mongodb.net/?appName=Cluster0
-
-arito_dbuser
-j9zdmylWLWdDO9gN
