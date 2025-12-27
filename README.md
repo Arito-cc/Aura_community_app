@@ -46,8 +46,7 @@
    ```bash
    git clone [https://github.com/Arito-cc/aura.git](https://github.com/Arito-cc/aura.git)
    cd aura/backend
-
-```
+   ```
 
 2. **Install dependencies:**
 ```bash
@@ -130,5 +129,3 @@ npm run dev
 ## 🌟 Support
 
 If you find the **AURA** architecture helpful, give this repo a ⭐!
-
-```
