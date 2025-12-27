@@ -6,6 +6,21 @@
 
 ---
 
+## 🌐 Live Links & Test Credentials
+
+### 🔗 Live Demo  
+**Frontend:** [https://aura-app-s7cl.onrender.com/](https://aura-app-s7cl.onrender.com/)  
+**Backend API:** [https://aura-backend-mtth.onrender.com/](https://aura-backend-mtth.onrender.com/)
+
+### 🧪 Test Credentials  
+You can log in using:  
+**User:** `test_user`  
+**Password:** `password123`  
+
+Or simply create your own account!
+
+---
+
 ## ✨ Key Features
 
 ### 🔐 Advanced Authentication & Security
