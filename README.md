@@ -3,7 +3,15 @@
 
 **AURA** is a high-performance, mobile-first community platform built with the **MERN stack**. It features a modern "OLED/Neon" aesthetic and a professional **Admin-Approval Hierarchy**. Unlike traditional forums, AURA supports **recursive comment threading**, hashtag-based discovery, and deep moderation tools.
 
-
+# Test User id:Pass or create your own
+*user*
+```bash
+test_user
+```
+*password*
+```bash
+password123
+```
 
 ---
 
