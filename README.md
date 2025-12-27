@@ -44,7 +44,7 @@
 ### 1️⃣ Backend Setup (`/backend`)
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/Arito-cc/aura.git](https://github.com/Arito-cc/aura.git)
+   git clone [https://github.com/Arito-cc/Aura_community_app.git](https://github.com/Arito-cc/Aura_community_app.git)
    cd aura/backend
 
 ```
